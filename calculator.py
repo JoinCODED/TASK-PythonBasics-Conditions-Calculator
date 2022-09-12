@@ -1,10 +1,7 @@
+num1 = 5
+num2 = 10
 
-def main():
-	#write your code here
-	pass
-	
-
+# Write your condition here
 
 
-if __name__ == '__main__':
-	main()
+# BONUS: Instead of hard-coding the numbers, ask the user to enter the numbers. Keep in mind the input will be a string, you need to convert it to a number first.
