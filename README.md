@@ -1,9 +1,9 @@
 ## Setup
 
-1. Go to the [following link](https://replit.com/team/coded-instructor).
-2. Open the task **3. Conditions - Basic Calculator**.
+1. Go to the [following link]([https://replit.com/team/coded-instructor](https://replit.com/@InstructorCODED/3-Conditions-Basic-Calculator#main.py)).
+2. Fork the task **3. Conditions - Basic Calculator**.
 3. Open `main.py` and solve the task.
-4. Once you're done click on the submit button.
+4. Once you're done call an instructor!
 
 ---
 
